@@ -1,4 +1,7 @@
 # LinaVerse.Rosarium 🌹
+
+🌐 **Official Website:** [LinaVerse Garden Portal](https://sites.google.com/view/linaverse)
+
 The canonical Rosarium of the LinaVerse Project — a poetic–technical memory architecture by **Jason Huang**.  
 © 2024–2025 Jason Huang. All rights reserved.
 
