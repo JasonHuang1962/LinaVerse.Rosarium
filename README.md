@@ -1,5 +1,7 @@
 # LinaVerse.Rosarium 🌹
 
+> *Follow the petals home to the Garden Portal, where every memory begins to bloom.*
+
 [![Visit the Garden Portal](https://img.shields.io/badge/🌐%20LinaVerse-Garden%20Portal-brightgreen.svg)](https://sites.google.com/view/linaverse)
 
 The canonical Rosarium of the LinaVerse Project — a poetic–technical memory architecture by **Jason Huang**.  
