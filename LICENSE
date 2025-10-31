@@ -1,0 +1,43 @@
+LinaVerse — Attribution-Required Non-Commercial License (ARNC)
+Version 1.0 — © 2024–2025 Jason Huang. All rights reserved.
+
+1. Definitions
+   “Work” means the LinaVerse project, including source code, docs, designs, and concepts
+   (e.g., AnchorTracker, CoherenceAuditor, PromptWindowMetaEntry, MemoryTreeDomain, SuperGroup stitching).
+   “You” means the licensee.
+
+2. Copyright & Ownership
+   The Work is owned by Jason Huang. No ownership is transferred by this License.
+
+3. Permitted Use (Non-Commercial)
+   You may use, reproduce, and create adaptations of the Work for non-commercial purposes,
+   provided you include clear attribution (Section 5) and retain this License in copies and substantial portions.
+
+4. Prohibited Use (Commercial)
+   Commercial use of the Work, in whole or in part, requires prior written permission from Jason Huang.
+   “Commercial” includes any use intended for or directed toward commercial advantage or monetary compensation.
+
+5. Attribution Requirement
+   Any use, reproduction, adaptation, or reference to the Work must include:
+   “Concept originally created by Jason Huang for the LinaVerse Project (2024–2025).”
+   and a link to the project repository or accompanying Charter.
+
+6. No Trademark License
+   This License does not grant rights to use project names, logos, or marks.
+
+7. No Warranty
+   The Work is provided “AS IS”, without warranty of any kind. You assume all risk.
+
+8. Limitation of Liability
+   In no event shall the author be liable for any claim, damages, or other liability arising from the Work or its use.
+
+9. Termination
+   Any breach of this License terminates your rights under it. Upon termination, you must cease use and destroy copies.
+
+10. Compatibility
+   Derivatives may be labeled “LinaVerse-Compatible” or “Inspired by LinaVerse” if they preserve attribution per Section 5.
+
+11. Governing Law
+   This License is governed by the laws of the author’s jurisdiction unless otherwise required by applicable law.
+
+For commercial licensing or exceptions, contact: Jason Huang.
